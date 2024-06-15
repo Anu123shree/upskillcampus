@@ -2,5 +2,5 @@
 Crop prediction in India  using machine Learning 
 
 Algorithm Used:
-Random forest classifier
+Random forest Regressor
 Decision tree
